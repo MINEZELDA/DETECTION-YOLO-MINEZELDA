@@ -1,4 +1,3 @@
-pip install ultralytics
 from pathlib import Path
 import PIL
 import streamlit as st
